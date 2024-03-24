@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 2,
+    "city": "Amboli"
+  },
+  {
+    "id": 3,
+    "city": "Bharuch"
+  },
+  {
+    "id": 4,
+    "city": "Bhuj"
+  },
+  {
+    "id": 5,
+    "city": "Changodar"
+  },
+  {
+    "id": 6,
+    "city": "Junagadh"
+  },
+  {
+    "id": 7,
+    "city": "Narmada"
+  },
+  {
+    "id": 8,
+    "city": "Navasari"
+  },
+  {
+    "id": 9,
+    "city": "Rajkot"
+  },
+  {
+    "id": 10,
+    "city": "Surat"
+  },
+  {
+    "id": 11,
+    "city": "Vadodara"
+  },
+  {
+    "id": 12,
+    "city": "Vapi"
+  }
+  ]
