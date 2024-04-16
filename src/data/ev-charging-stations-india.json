@@ -661,5 +661,16 @@
     "longitude": 72.91809,
     "type": 7,
     "image": "https://www.iisd.org/sites/default/files/styles/banner_mobile/public/2022-07/evs-charging-india.jpg?h=82102dc8&itok=9lkGz8Hk"
+  },
+  {
+    "id": 61,
+    "name": "Electric Vehicle Charging Station",
+    "city": "Gandhinagar",
+    "code": 13,
+    "address": "B-33, Gidc Electronic Estate, Sector 25, Gandhinagar, Gujarat 382024, India",
+    "lattitude": 23.247660,
+    "longitude": 72.634620,
+    "type": 7,
+    "image": "https://www.iisd.org/sites/default/files/styles/banner_mobile/public/2022-07/evs-charging-india.jpg?h=82102dc8&itok=9lkGz8Hk"
   }
 ]
