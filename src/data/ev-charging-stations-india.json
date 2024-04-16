@@ -672,5 +672,38 @@
     "longitude": 72.634620,
     "type": 7,
     "image": "https://www.iisd.org/sites/default/files/styles/banner_mobile/public/2022-07/evs-charging-india.jpg?h=82102dc8&itok=9lkGz8Hk"
+  },
+  {
+    "id": 62,
+    "name": "Jaygayatri Electric Engg Work",
+    "city": "Gandhinagar",
+    "code": 13,
+    "address": "848 Sector-21, Vishwakarma Shopping Centre, Gandhi Nagar, Gandhi Nagar, Gandhinagar, Gujarat 382021, India",
+    "lattitude": 23.235460,
+    "longitude": 72.657509,
+    "type": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdN0ASDqD_MlZNrMLlZ8VOlegW6e8eZRFzg&usqp=CAU"
+  },
+   {
+    "id": 63,
+    "name": " Mihir E Bikes Electric Vehicles",
+    "city": "Gandhinagar",
+    "code": 13,
+    "address": "Plot No K1-902/7, B/h Hyundai Showrooms, Near Ajanta Marble, Sector 28 Gidc, Sector 28, Gandhinagar, Gujarat 382027, Ind",
+    "lattitude": 23.2534661,
+    "longitude": 72.5751911,
+    "type": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdN0ASDqD_MlZNrMLlZ8VOlegW6e8eZRFzg&usqp=CAU"
+  },
+  {
+    "id": 64,
+    "name": "Tunwal E-Bike India",
+    "city": "Gandhinagar",
+    "code": 13,
+    "address": "E-91, Gidc,electronic Estate, Sector-26,, Gandhinagar, Gujarat 382026, India",
+    "lattitude": 23.2570444,
+    "longitude": 72.5498136,
+    "type": 7,
+    "image": "https://chargezone.com/assets/img/blog/blog5.jpeg"
   }
 ]
